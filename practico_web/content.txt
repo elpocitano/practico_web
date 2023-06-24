@@ -1,0 +1,10 @@
+pagina principal, cabecera y navbar inicio, venta, alquiler, blog, contacto y caja de dialogo y box de buscar, texto de presentacion, y despues 3 filas de 3 columnas de cards con los destacados
+
+tambien footer con iconos de contacto
+
+pagina alquiler y ventas son iguales, 3 filas x 3 columnas de modales con foto y algunos datos importantes d elas propiedades, boton para ir a pagina completa de info de la propiedad donde ademas de todos los datos, va a haber pegado un mapa de localizacion de google,
+
+buscar te lleva a una pagina de muchos filtros para seleccionar fijate en la pagina de booking con los filtros
+
+blog van a ser modales con 1 articulo cada uno y un formulario de siuscripcion al blog
+
